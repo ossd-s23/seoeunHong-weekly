@@ -18,6 +18,6 @@ Replace the first row with your own contribution.
 
 | Date # | Contribution (Link)                                         | Type           | Description               |
 | ------ | :---------------------------------------------------------- | :------------- | :------------------------ |
-| Feb 1  | [My Contribution](https://github.com/joannakl/ossd/pull/39) | course website | I fixed the outdated link |
+| Feb 1  | [My Contribution](https://github.com/joannakl/ossd/pull/39) | Course Website | I fixed the outdated link |
 |        |                                                             |                |                           |
 |        |                                                             |                |                           |
