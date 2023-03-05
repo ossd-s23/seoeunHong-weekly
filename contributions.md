@@ -25,3 +25,4 @@ Replace the first row with your own contribution.
 | Feb 25 | [My Contribution](https://en.wikipedia.org/w/index.php?title=Seoul_National_University&diff=prev&oldid=1141649625) | WikiPedia Edit     | I fixed outdated information and added more detail information                |
 | Feb 25 | [My Contribution](https://www.openstreetmap.org/changeset/133029116)                                               | OpenStreetMap Edit | I updated missing building information around my town in South Korea          |
 | Feb 26 | [My Contribution](https://www.openstreetmap.org/changeset/133029392)                                               | OpenStreetMap Edit | I updated outdated buildings and missing buildings around my town in New York |
+| Mar 4  | [My Contribution](https://github.com/ossd-s23/ROMEEZHOU-weekly/issues/1#issue-1599965778)                          | Weekly-Blog        | I recommended hypterlink format for contributions tab                         |
